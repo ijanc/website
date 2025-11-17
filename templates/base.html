@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="pt">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {% block rss -%}
+  <link rel="alternate" type="application/atom+xml" title="Ijanc-Feed" 
+  href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
+  {% endblock -%}
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <link href="{{ get_url(path="favicon.ico") }}" rel="shortcut icon">
+</head>
+<body>
+  {% block body %}{% endblock body %}
+  {% include "footer.html" %}
+</body>
+</html>

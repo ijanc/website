@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block body %}
+	<h1>Olá</h1>
+  <p>Eu sou Murilo Ijanc'. No <a href="https://en.wikipedia.org/wiki/IRC">IRC</a> no ano de 99 me
+  apresentava como
+  <b>f_kernel</b>, comumente participava ativamente dos canais #openbsd,
+  #geek_republic, #linux4ever, etc. Atualmente me identifico como <b>msi</b>
+  nos commits jogados por aí. Caso queira entrar em contato de uma forma
+  supostamente segura segue o link da minha <a href="{{ get_url(path="gpg.asc")
+  }}">chave</a> PGP.</p>
+  {% include "nav.html" %}
+  <p>Sem rastreamento, sem cookies, sem coleta de dados, "sem javascript" a não
+  ser para exemplos de projetos web e vou garantir que você saiba quando uso.
+  Todo conteúdo desse website é feito por mim e antes que você pergunte não sou
+  um IA.</p>
+  <p>Já perdi as contas de blogs e conteúdos gerados nesses anos o último
+  (2011) blog envolvia <a href="https://murilotri.blogspot.com/">meus
+  treinos</a> de triathlon e ainda estou portando para esse.</p>
+  <p>Esse website possui outra seções que não estão no menu e abaixo é um bom
+  ponto de partida para navegar por essas seções.</p>
+  <ul>
+    <li>Triathlon</li>
+    <li><a href="/uses">Usos</a></li>
+    <li>Livros</li>
+    <li>Mídia</li>
+  </ul>
+  <h2>HTTP / HTTPS</h2>
+  Esse website tem o objetivo de funcionar em computadores antigos bem
+  como acessível por navegadores de terminais. Alguns computadores não suportam
+  protocolo HTTPS por causa dos novos algoritmos ou limitações de memória/CPU.
+  Por padrão o acesso do website é via HTTP mas o mesmo tem suporte completo
+  para HTTPS com <a
+    href="https://www.ssllabs.com/ssltest/analyze.html?d=ijanc.org&latest">classificação
+    A+</a>, para isso basta alterar os links de HTTP para HTTPS.
+  <h2>
+    Palestras
+  </h2>
+  <ul>
+    <li>https://techinterior.com.br/2017/index.html</li>
+    <li>https://techinterior.com.br/2016/index.html</li>
+    <li>USP</li>
+  </ul>
+  <h2>2025</h2>
+  <ul>
+    <li><a href="#">titulo</a> descrição pequena..</li>
+  </ul>
+  <main>
+  {%- block content -%}{%- endblock content -%}
+  </main>
+{% endblock body %}

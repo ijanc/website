@@ -1,0 +1,26 @@
+base_url = "https://ijanc.org"
+build_search_index = false
+compile_sass = false
+minify_html = false
+
+# default values
+title = "murilo ijanc'"
+author = "murilo ijanc'"
+description = ""
+taxonomies = [
+  { name = "tags", feed = true },
+  { name = "categories", paginate_by = 10 },
+]
+
+# feeds
+generate_feeds = true
+
+[markdown]
+highlight_code = true
+highlight_theme = "ascetic-white"
+# dark
+# highlight_theme		= "gray-matter-dark"
+render_emoji = true
+
+[extra]
+keywords = [""]
