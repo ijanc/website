@@ -5,6 +5,7 @@ description = ""
 
 ## To Do
 
+- [x] update robots.txt block ai
 - [ ] Criar seção de fotos organizar por ano
 - [ ] Criar seção do trico da Aninha
 - [ ] Criar seção dos livros
