@@ -47,9 +47,17 @@
         USP São Carlos 2008</a></li>
   </ul>
   <h2>2025</h2>
-  <ul>
-    <li><a href="#">titulo</a> descrição pequena..</li>
-  </ul>
+  {% set posts = get_section(path="blog/_index.md") %}
+{% set recent = posts.pages | sort(attribute="date") | reverse | slice(end=5) %}
+
+<ul>
+{% for post in recent %}
+    <li>
+        <a href="{{ post.permalink }}">{{ post.title }}</a>
+        <small> — {{ post.date | date(format="%d/%m/%Y") }}</small>
+    </li>
+{% endfor %}
+</ul>
   <main>
   {%- block content -%}{%- endblock content -%}
   </main>
