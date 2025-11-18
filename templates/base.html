@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="{{ config.author }}">
   <meta name="keywords" content="{{ config.extra.keywords | join(sep=", ") }}">
+  <meta name="robots" content="noai, noimageai">
   {% block rss -%}
   <link rel="alternate" type="application/atom+xml" title="MuriloIjanc-Feed" 
   href="{{ get_url(path="atom.xml", trailing_slash=false) }}">
@@ -13,7 +14,7 @@
   <link href="{{ get_url(path="favicon.ico") }}" rel="shortcut icon">
 </head>
 <body>
-  {% block body %}{% endblock body %}
+  {%- block body -%}{% endblock body -%}
   {% include "footer.html" %}
 </body>
 </html>

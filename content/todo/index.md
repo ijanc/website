@@ -7,6 +7,7 @@ description = ""
 
 - [x] update robots.txt block ai
 - [x] get meta keywords from config
+- [x] add protect images
 - [ ] Criar seção de fotos organizar por ano
 - [ ] Criar seção do trico da Aninha
 - [ ] Criar seção dos livros
