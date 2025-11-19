@@ -3,7 +3,7 @@ title = "todo"
 description = ""
 +++
 
-## To Do
+# To Do
 
 - [x] update robots.txt block ai
 - [x] get meta keywords from config
@@ -12,7 +12,7 @@ description = ""
 - [ ] Criar seção do trico da Aninha
 - [ ] Criar seção dos livros
 - [ ] Criar seção dos repositórios
-- [ ] Criar seção do contato
+- [x] Criar seção do contato
 - [ ] Criar seção agora
 - [ ] Criar seção do triathlon (recordes, competiçoes, colocaçoes)
 - [ ] Post hackathon das férias
