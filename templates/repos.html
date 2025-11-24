@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block body %}
+
+{% include "nav.html" %}
+
+<h1>{{ section.title }}</h1>
+<p>Página criada: 2025-01-01</p>
+<p>Atualizada: 2025-01-01</p>
+<hr>
+<p>Atualizando...</p>
+<hr>
+{% for page in section.pages %}
+<ul>
+	<li>{{ page.title }}</li>
+</ul>
+{% endfor %}
+
+{% endblock body %}
