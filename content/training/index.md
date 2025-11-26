@@ -10,3 +10,4 @@ description = "treinos"
 | Data       | Treino                                                      | Tempo   | Obs |
 | ---------- | ----------------------------------------------------------- | ------- | --- |
 | 2025-11-24 | Kelly 5x 400m Run, 30 Box Jumps, 30 Wall Bals (16), TC: 25' | 27'23'' |     |
+| 2025-11-25 | 7 Séries: 15/12 Calorias Air Bike/ Row 12 Toes to Bar 9 Handstand Push Ups -rest 1:00 entre as séries- Time Cap em cada série: 2:30 | 19'47'' |     |
