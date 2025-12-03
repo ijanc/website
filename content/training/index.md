@@ -7,9 +7,9 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
-| 2025-12-03 | 2:00 AMRAP 15/12 Calorias Air Bike 12 Alternating Dumbbell Snatches (50/35) Max Burpee over Dumbbell no tempo restante -rest 1:00 entre as séries- Continue até realizar 75 Burpee over Dumbbell  Time cap: 23 minutos *teremos Snatch 🏋️‍♀️ |  | |
-| 2025-12-02 | 30 Box Step Ups (60/50cm) 50 Strict Sit Ups 30 Box Jumps (60/50cm) 50 V-Ups 30 Box Jump Overs (60/50cm) 50 Sit Ups 30 Box Step Ups (60/50cm) | 25'24'' | |
-| 2025-12-01 | 4 Séries 15/12 Calorias Row 15 Thrusters (75/55) 15 Chest to Bar Pull Ups -rest 1:1 entre as séries- | 28'14'' | Fiz o Thrusters somente com a barra |
+| 2025-12-03 | Cross | 2:00 AMRAP 15/12 Calorias Air Bike 12 Alternating Dumbbell Snatches (50/35) Max Burpee over Dumbbell no tempo restante -rest 1:00 entre as séries- Continue até realizar 75 Burpee over Dumbbell  Time cap: 23 minutos *teremos Snatch 19'04'' | Snatch com laranja, Dumbbell 25lb | 
+| 2025-12-02 | Cross | 30 Box Step Ups (60/50cm) 50 Strict Sit Ups 30 Box Jumps (60/50cm) 50 V-Ups 30 Box Jump Overs (60/50cm) 50 Sit Ups 30 Box Step Ups (60/50cm) | 25'24'' | |
+| 2025-12-01 | Cross | 4 Séries 15/12 Calorias Row 15 Thrusters (75/55) 15 Chest to Bar Pull Ups -rest 1:1 entre as séries- | 28'14'' | Fiz o Thrusters somente com a barra |
 | 2025-11-30 | Corrida |12Km run | 1h | 8AM (quente) |
 | 2025-11-29 | Cross |5x 400m run 10 pull-ups + 5 hang power 20 cal/row alvo 22' | 23'27'' | |
 | 2025-11-28 | Cross |25 Burpees over Bar 75 Thrusters (45/35) 25 Burpees over Bar * Time Cap: 14:00 | 7'51'' | Dividi 75 Thrusters 10 e 3'' de descanso |
