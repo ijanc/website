@@ -7,7 +7,7 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
-| 2025-12-10 | Cross | 2 Rodadas 15 Box Jumps (60/50cm) 9 Overhead Squats (115/85) -rest 1:1- 2 Rodadas 15 Box Jumps (60/50cm) 12 Overhead Squats (95/65) -rest 1:1- 2 Rodadas 15 Box Jumps (60/50cm) 15 Overhead Squats (75/55) (Resultado é o tempo total, incluíndo o rest) Time Cap: 20 Minutos |  |  |
+| 2025-12-10 | Cross | 2 Rodadas 15 Box Jumps (60/50cm) 9 Overhead Squats (115/85) -rest 1:1- 2 Rodadas 15 Box Jumps (60/50cm) 12 Overhead Squats (95/65) -rest 1:1- 2 Rodadas 15 Box Jumps (60/50cm) 15 Overhead Squats (75/55) (Resultado é o tempo total, incluíndo o rest) Time Cap: 20 Minutos | 17'30'' |  |
 | 2025-12-09 | Cross | 15:00 AMRAP 3 Wall Walks 12 Dumbbell Bench Press (50s/35s) 15 Abmat Sit Ups (Resultado será rodadas + reps) *teremos Rope Climb. Traga o seu meião | 6x + 3 rep |  Dumbell 15kg |
 | 2025-12-08 | Cross | 2 séries: 25/20 Calorias Air Bike 25 Hang Power Cleans (95/65) 25/20 Calorias Air Bike 25 Chest to Bar Pull Ups -Rest até 10:00, repita- (Resultado é o tempo das 2 séries) | 8'03 e 8'36'' | |
 | 2025-12-06 | Cross | 21.2Km Remo | 1h30' | 4' a cada 2 min, Geo, Bruno, Eu e Marines |
