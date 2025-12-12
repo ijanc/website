@@ -7,6 +7,8 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2025-12-13 | Cross | Murph 1 Mile Run 100 Pull-Ups 200 Push-Ups 300 Air Squats 1 Mile Run | |  |
+| 2025-12-12 | Cross | 1-2-3-4-5-5-4-3-2-1 Power Cleans (185/125) Realize 30 Double Unders após cada série Time Cap: 16 Minutos | 12'22''|  |
 | 2025-12-11 | Cross | Duplas Atleta 1: 60x15m Shuttle Run Atleta 2: 120/90 Calorias Row Time Cap: 24 Minutos | 14'12'' |  |
 | 2025-12-10 | Cross | 2 Rodadas 15 Box Jumps (60/50cm) 9 Overhead Squats (115/85) -rest 1:1- 2 Rodadas 15 Box Jumps (60/50cm) 12 Overhead Squats (95/65) -rest 1:1- 2 Rodadas 15 Box Jumps (60/50cm) 15 Overhead Squats (75/55) (Resultado é o tempo total, incluíndo o rest) Time Cap: 20 Minutos | 17'30'' |  |
 | 2025-12-09 | Cross | 15:00 AMRAP 3 Wall Walks 12 Dumbbell Bench Press (50s/35s) 15 Abmat Sit Ups (Resultado será rodadas + reps) *teremos Rope Climb. Traga o seu meião | 6x + 3 rep |  Dumbell 15kg |
