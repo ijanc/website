@@ -7,6 +7,7 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2025-12-17 | Cross | 7 Rodadas 200m Run 15 V-Ups 15m Walking Lunge | 14'24'' |  |
 | 2025-12-16 | Cross | 2-2-2-3 min AMRAP 75 Double Unders Max Squat Cleans no tempo restante (135/95) -rest 1:00 entre os AMRAPs- | 11'12'' |  |
 | 2025-12-15 | Cross | 3 rodadas 12/10 Calorias Row 10 Toes to Bar 8 Box Jump Overs (76/60cm) -rest até 8:00- For Time: 36/30 Calorias Row 30 Toes to Bar 24 Box Jump Overs (76/60cm) (Resultado é o tempo de cada série) | 13'40'' |  |
 | 2025-12-13 | Cross | Murph 1 Mile Run 100 Pull-Ups 200 Push-Ups 300 Air Squats 1 Mile Run | 44'22'' | Fiz 100 pull ups divididos em 20 vezes e depois push up e squat direto |
