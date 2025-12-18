@@ -7,6 +7,7 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2025-12-18 | Cross | 21-15-9 Power Snatch (115/85) Burpee Over Bar Time Cap: 9 Minutos | 7'44'' |  |
 | 2025-12-17 | Cross | 7 Rodadas 200m Run 15 V-Ups 15m Walking Lunge | 14'24'' |  |
 | 2025-12-16 | Cross | 2-2-2-3 min AMRAP 75 Double Unders Max Squat Cleans no tempo restante (135/95) -rest 1:00 entre os AMRAPs- | 11'12'' |  |
 | 2025-12-15 | Cross | 3 rodadas 12/10 Calorias Row 10 Toes to Bar 8 Box Jump Overs (76/60cm) -rest até 8:00- For Time: 36/30 Calorias Row 30 Toes to Bar 24 Box Jump Overs (76/60cm) (Resultado é o tempo de cada série) | 13'40'' |  |
