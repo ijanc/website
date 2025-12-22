@@ -7,6 +7,8 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2025-12-22 | Cross | 2 séries: 5:00 AMRAP 4-8-12-16…. Overhead Squats (95/65) 1-2-3-4…. Bar Muscle Ups -rest 2:00 entre as séries- | 1 - 3 + 16rep, 2 - 4 + 6rep |  |
+| 2025-12-18 | Cross | "12 Days of Christmas" 1 (100m) Run 2 Squat Cleans (135/95) 3 Bar Muscle Ups 4 Burpees 5 Deadlifts (135/95) 6 Pull Ups 7 Toes to Bar 8 Wall Balls (30/20) 9 Kettlebell Swings (24/16) 10 Kettlebell Lunges (24/16) 11 Handstand Push Ups 12 Thrusters (135/95) Time Cap: 40 Minutos *esse Wod é inspirado na musica  "12 days of Christmas”, seguindo a sequencia…. 1 2-1 3-2-1 4-3-2-1 | - |  |
 | 2025-12-17 | Cross | 7 Rodadas 200m Run 15 V-Ups 15m Walking Lunge | 14'24'' |  |
 | 2025-12-16 | Cross | 2-2-2-3 min AMRAP 75 Double Unders Max Squat Cleans no tempo restante (135/95) -rest 1:00 entre os AMRAPs- | 11'12'' |  |
 | 2025-12-15 | Cross | 3 rodadas 12/10 Calorias Row 10 Toes to Bar 8 Box Jump Overs (76/60cm) -rest até 8:00- For Time: 36/30 Calorias Row 30 Toes to Bar 24 Box Jump Overs (76/60cm) (Resultado é o tempo de cada série) | 13'40'' |  |
