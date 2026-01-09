@@ -7,7 +7,8 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
-| 2026-01-09 | Cross |  | |  |
+| 2026-01-10 | Cross |  | |  |
+| 2026-01-09 | Cross | 3 Rodadas 15 Thrusters (95/65) 15 Chest to Bar Pull Ups | 3 rep + 13 thrusters |  |
 | 2026-01-08 | Cross | A cada 2min (6 séries) 12 Deadlifts (155/105) 12 Dumbbell Bench Press (50s/35s) 12 Box Jump Overs (50cm) | |  |
 | 2026-01-07 | Cross | 10-8-6-4-2 Wall Walks 200m Run após cada série (Resultado será o tempo total) (Time Cap: 15:00) | 9'40'' |  |
 | 2026-01-06 | Cross | A cada 1min (16min) Minutos Ímpares: 30-segundos Max Calorias Row Minutos Pares: 30-segundos Max Burpee Over Bar | PR: 68Kg |  |
