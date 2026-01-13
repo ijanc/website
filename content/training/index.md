@@ -7,7 +7,8 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
-| 2026-01-10 | Cross |  | |  |
+| 2026-01-13 | Cross | 4 séries: 25/20 Calorias Air Bike 75 Double Unders 15 Dumbbell Push Press (50s/35s) -rest 2:00 entre as séries- (Time Cap: 4:30) | |  |
+| 2026-01-12 | Cross | 30 Toes to Bar 30 Back Squats (95/65) 30 Burpees -Rest 1:00- 20 Toes to Bar 20 Front Squats (115/85) 20 Burpee to Bar -Rest 1:00- 10 Toes to Bar 10 Overhead Squats (135/95) 10 Burpees Over Bar (Resultado será o tempo total) (Time Cap: 22:00) | 13'40'' |  |
 | 2026-01-09 | Cross | 3 Rodadas 15 Thrusters (95/65) 15 Chest to Bar Pull Ups | 3 rep + 13 thrusters |  |
 | 2026-01-08 | Cross | A cada 2min (6 séries) 12 Deadlifts (155/105) 12 Dumbbell Bench Press (50s/35s) 12 Box Jump Overs (50cm) | |  |
 | 2026-01-07 | Cross | 10-8-6-4-2 Wall Walks 200m Run após cada série (Resultado será o tempo total) (Time Cap: 15:00) | 9'40'' |  |
