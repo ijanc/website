@@ -7,6 +7,7 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2026-01-15 | Cross | For Time: 150 Air Squats *EMOM (Incluíndo o min 0:00) realize 10/8 Calorias Row | 11'05'' |  |
 | 2026-01-14 | Cross | 12:00 AMRAP 15 Kettlebell Swings (24/16) 15 Stick Sit Ups 15 Box Jumps (60/50cm) | 5 rodadas |  |
 | 2026-01-13 | Cross | 4 séries: 25/20 Calorias Air Bike 75 Double Unders 15 Dumbbell Push Press (50s/35s) -rest 2:00 entre as séries- (Time Cap: 4:30) | 17'50'' |  |
 | 2026-01-12 | Cross | 30 Toes to Bar 30 Back Squats (95/65) 30 Burpees -Rest 1:00- 20 Toes to Bar 20 Front Squats (115/85) 20 Burpee to Bar -Rest 1:00- 10 Toes to Bar 10 Overhead Squats (135/95) 10 Burpees Over Bar (Resultado será o tempo total) (Time Cap: 22:00) | 13'40'' |  |
