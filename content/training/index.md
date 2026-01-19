@@ -7,6 +7,7 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2026-01-19 | Cross | 500m Run 50 Wall Balls (20/14) 50 V-Ups 50 Wall Balls (20/14) 500m Run Time Cap: 18 Minutos | 10'00'' | - |
 | 2026-01-16 | Cross | - | - | - |
 | 2026-01-15 | Cross | For Time: 150 Air Squats *EMOM (Incluíndo o min 0:00) realize 10/8 Calorias Row | 11'05'' |  |
 | 2026-01-14 | Cross | 12:00 AMRAP 15 Kettlebell Swings (24/16) 15 Stick Sit Ups 15 Box Jumps (60/50cm) | 5 rodadas |  |
