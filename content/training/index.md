@@ -7,6 +7,7 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2026-01-20 | Cross | O mínimo de séries possível para finalizar: (max 7 séries) AMRAP 2:00 75 Lateral Burpee Over Bar 100/80 Calorias Row -rest 1:00 entre as séries- (Time Cap: 20:00) *teremos Bar Muscle Up/ Pull Up | 10'00'' | - |
 | 2026-01-19 | Cross | 500m Run 50 Wall Balls (20/14) 50 V-Ups 50 Wall Balls (20/14) 500m Run Time Cap: 18 Minutos | 10'00'' | - |
 | 2026-01-16 | Cross | - | - | - |
 | 2026-01-15 | Cross | For Time: 150 Air Squats *EMOM (Incluíndo o min 0:00) realize 10/8 Calorias Row | 11'05'' |  |
