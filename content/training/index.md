@@ -7,6 +7,15 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2026-01-22 | Cross |2 séries 21/15 Calorias Air Bike
+50 Double Unders
+15/12 Calorias Air Bike
+50 Double Unders
+9/7 Calorias Air Bike
+50 Double Unders
+-rest 3:00 entre as séries-
+
+*teremos Shoulder Press 🏋️‍♀️|  14'55''| - |
 | 2026-01-21 | Cross | 3 séries 2 Rodadas 10 Toes to Bar 2 Wall Walks 10 Hang Power Snatches (75/55) -rest 2:00 entre as séries- Time Cap: 19:00 Teremos Deadlift | 13'50'' | - |
 | 2026-01-20 | Cross | O mínimo de séries possível para finalizar: (max 7 séries) AMRAP 2:00 75 Lateral Burpee Over Bar 100/80 Calorias Row -rest 1:00 entre as séries- (Time Cap: 20:00) *teremos Bar Muscle Up/ Pull Up | 10'00'' | - |
 | 2026-01-19 | Cross | 500m Run 50 Wall Balls (20/14) 50 V-Ups 50 Wall Balls (20/14) 500m Run Time Cap: 18 Minutos | 10'00'' | - |
