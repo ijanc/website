@@ -7,6 +7,7 @@ description = "treinos"
 
 | Data       |Tipo |Treino                                                      | Tempo / Repetições   | Obs |
 | ---------- |-----|----------------------------------------------------------- | ------- | --- |
+| 2026-01-27 | Cross | | | - |
 | 2026-01-26 | Cross | 4 Séries: 20 Wall Balls (20/14) 10 Box Jump Overs (60/50cm) 10 Wall Balls (20/14) 5 Box Jump Overs (60/50cm) -rest 2:00 entre as séries-| 14'40'' | - |
 | 2026-01-22 | Cross |2 séries 21/15 Calorias Air Bike 50 Double Unders 15/12 Calorias Air Bike 50 Double Unders 9/7 Calorias Air Bike 50 Double Unders -rest 3:00 entre as séries - *teremos Shoulder Press 🏋️‍♀️|  14'55''| - |
 | 2026-01-21 | Cross | 3 séries 2 Rodadas 10 Toes to Bar 2 Wall Walks 10 Hang Power Snatches (75/55) -rest 2:00 entre as séries- Time Cap: 19:00 Teremos Deadlift | 13'50'' | - |
